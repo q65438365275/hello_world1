@@ -9,5 +9,5 @@ Yes, confirmed.
 How to show next line as a next line (default is a next tab)? Clikced to "No Wrap", committed.
 1870361 = id of the initial commit
 eb381dc = example of id of each next commit
-
+Check that the commit message is optional (this one goes with commit message)
 
