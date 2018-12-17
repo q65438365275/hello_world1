@@ -1,0 +1,21 @@
+MAIN%<large_vol ALERT >184.23(pct)<volUpPrc(trgSet)>140.0(pct)<price>-1.56(prc)<curTimeHHMM>1103</>
+<lastTime>2018-12-17T11:03:41.643-0500</><lastClosed>37.195</>
+<curPrice>36.6135</>
+<curChangePct>-1.5634</>
+<dayHigh>37.32</><dayLow>36.53</>
+<curVol>147,214</><curVolPror>617,349</><volAvg10D>217,199</><alertNote>%<large_vol ALERT >184.23(pct)<volUpPrc(trgSet)>140.0(pct)<price>-1.56(prc)
+*********************************************************************
+MAIN%<large_vol ALERT >163.57(pct)<volUpPrc(trgSet)>140.0(pct)<price>-1.47(prc)<curTimeHHMM>1115</>
+<lastTime>2018-12-17T11:14:06.496-0500</><lastClosed>37.195</>
+<curPrice>36.65</>
+<curChangePct>-1.4652</>
+<dayHigh>37.32</><dayLow>36.53</>
+<curVol>154,125</><curVolPror>572,464</><volAvg10D>217,199</><alertNote>%<large_vol ALERT >163.57(pct)<volUpPrc(trgSet)>140.0(pct)<price>-1.47(prc)
+*********************************************************************
+MAIN%<large_vol ALERT >145.26(pct)<volUpPrc(trgSet)>140.0(pct)<price>-1.36(prc)<curTimeHHMM>1126</>
+<lastTime>2018-12-17T11:26:24.645-0500</><lastClosed>37.195</>
+<curPrice>36.69</>
+<curChangePct>-1.3577</>
+<dayHigh>37.32</><dayLow>36.53</>
+<curVol>158,448</><curVolPror>532,713</><volAvg10D>217,199</><alertNote>%<large_vol ALERT >145.26(pct)<volUpPrc(trgSet)>140.0(pct)<price>-1.36(prc)
+*********************************************************************
