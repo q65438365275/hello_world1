@@ -7,3 +7,7 @@ Why the button could NOT be put above???
 Since  we are in Branch1, this line  SHOULD NOT be visible in the MAIN branch???
 Yes, confirmed. 
 How to show next line as a next line (default is a next tab)? Clikced to "No Wrap", committed.
+1870361 = id of the initial commit
+eb381dc = example of id of each next commit
+
+
