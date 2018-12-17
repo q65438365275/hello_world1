@@ -5,3 +5,4 @@ Second change to the README.md 20181217 11:33AM (why there is NO explicit SAVE b
 Because "Commit changes" is NOT visible! You have to SCROLL all way DOWN!!! 
 
 (in branch2) (new line) 
+branch2 add1
